@@ -1,0 +1,14 @@
+{
+    "name": "tolgakaragol/emoji",
+    "description": "Easy Emoji Usage on Php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "tolgakaragol",
+            "email": "tolgakaragol@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.2"
+    }
+}
