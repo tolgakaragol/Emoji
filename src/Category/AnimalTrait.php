@@ -2,7 +2,11 @@
 
 namespace TolgaKaragol\Emoji\Category;
 
+use TolgaKaragol\Emoji\Category\Animal\BirdTrait;
+use TolgaKaragol\Emoji\Category\Animal\BugTrait;
 use TolgaKaragol\Emoji\Category\Animal\MammalTrait;
+use TolgaKaragol\Emoji\Category\Animal\MarineTrait;
+use TolgaKaragol\Emoji\Category\Animal\ReptileTrait;
 
 /**
  * Trait MammalTrait
@@ -10,12 +14,8 @@ use TolgaKaragol\Emoji\Category\Animal\MammalTrait;
  */
 trait AnimalTrait
 {
-    use MammalTrait,
-        BirdTrait,
-        ReptileTrait,
-        MarineTrait,
-        BugTrait
-    ;
+    use BugTrait, BirdTrait, MammalTrait,
+        ReptileTrait, MarineTrait;
 
     protected static $frogFace = '&#128056';
 }

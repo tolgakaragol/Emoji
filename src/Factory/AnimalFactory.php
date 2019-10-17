@@ -2,7 +2,6 @@
 
 namespace TolgaKaragol\Emoji\Factory;
 
-use TolgaKaragol\Emoji\Category\AnimalInterface;
 use TolgaKaragol\Emoji\Category\AnimalTrait;
 
 /**
@@ -14,7 +13,7 @@ use TolgaKaragol\Emoji\Category\AnimalTrait;
  * @method static SingletonInterface marine()
  * @method static SingletonInterface bug()
  */
-class AnimalFactory extends AbstractEmojiFactory implements AnimalInterface
+class AnimalFactory extends AbstractEmojiFactory
 {
     use AnimalTrait;
 }

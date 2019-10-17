@@ -9,6 +9,9 @@ abstract class AbstractEmojiFactory  implements SingletonInterface
     /** @var SingletonInterface $instance */
     private static $instance;
 
+    /**
+     * @return SingletonInterface
+     */
     public static function getInstance(): SingletonInterface
     {
         if (self::$instance === null) {
@@ -18,7 +21,6 @@ abstract class AbstractEmojiFactory  implements SingletonInterface
 
         return self::$instance;
     }
-
 
     /**
      * @param $code
@@ -33,13 +35,18 @@ abstract class AbstractEmojiFactory  implements SingletonInterface
      * @param $name
      * @param $arguments
      * @return string
-     * @throws InvalidCategoryException
      * @throws \ReflectionException
+     * @throws InvalidCategoryException
      */
     public static function __callStatic($name, $arguments)
     {
-        $classNamespace = __NAMESPACE__ . $name;
+        $classNamespace = __NAMESPACE__ . '\\' . $name;
         if (! class_exists($classNamespace)) {
+            $trySubFactory = true;
+            $classNamespace = sprintf('%s\\SubFactory\\%s', __NAMESPACE__, $name);
+        }
+
+        if (isset($trySubFactory) && ! class_exists($classNamespace)) {
             throw new InvalidCategoryException($name);
         }
 
@@ -86,7 +93,7 @@ abstract class AbstractEmojiFactory  implements SingletonInterface
     }
 
     /**
-     * EmojiFactory constructor.
+     * SingletonInterface constructor.
      */
     private function __construct()
     {

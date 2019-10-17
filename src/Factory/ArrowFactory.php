@@ -9,7 +9,7 @@ use TolgaKaragol\Emoji\Category\ArrowTrait;
  * Class ArrowFactory
  * @package TolgaKaragol\Emoji\Factory
  */
-class ArrowFactory extends AbstractEmojiFactory implements ArrowInterface
+class ArrowFactory extends AbstractEmojiFactory
 {
     use ArrowTrait;
 }
