@@ -21,6 +21,10 @@ namespace TolgaKaragol\Emoji\Category\Animal;
  * @property string spiralShell 🐚
  * @property string tropicalFish 🐠
  * @property string whale 🐋
+ * @property string crab 🦀
+ * @property string lobster 🦞
+ * @property string shrimp 🦐
+ * @property string squid 🦑
  */
 trait MarineTrait
 {
@@ -33,4 +37,8 @@ trait MarineTrait
     protected static $shark = '&#129416';
     protected static $octopus = '&#128025';
     protected static $spiralShell = '&#128026';
+    protected static $crab = '&#129408';
+    protected static $lobster = '&#129438';
+    protected static $shrimp = '&#129424';
+    protected static $squid = '&#129425';
 }
