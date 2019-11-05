@@ -18,7 +18,7 @@ trait AwardMedalTrait
     protected static $militaryMedal = '&#x1f396;';
     protected static $trophy = '&#x1f3c6;';
     protected static $sportsMedal = '&#x1f3c5;';
-    protected static $1stPlaceMedal = '&#x1f947;';
-    protected static $2ndPlaceMedal = '&#x1f948;';
-    protected static $3rdPlaceMedal = '&#x1f949;';
+    protected static $firstPlaceMedal = '&#x1f947;';
+    protected static $secondPlaceMedal = '&#x1f948;';
+    protected static $thirdPlaceMedal = '&#x1f949;';
 }
