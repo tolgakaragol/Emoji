@@ -5,14 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait MusicalInstrumentTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\MusicalInstrumentTrait
- *
- * @property string saxophone 🎷
- * @property string guitar 🎸
- * @property string musicalKeyboard 🎹
- * @property string trumpet 🎺
- * @property string violin 🎻
- * @property string banjo 🪕
- * @property string drum 🥁
  */
 trait MusicalInstrumentTrait
 {

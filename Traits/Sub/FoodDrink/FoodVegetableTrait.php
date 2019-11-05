@@ -5,21 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\FoodDrink;
 /**
  * Trait FoodVegetableTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\FoodDrink\FoodVegetableTrait
- *
- * @property string avocado 🥑
- * @property string eggplant 🍆
- * @property string potato 🥔
- * @property string carrot 🥕
- * @property string earOfCorn 🌽
- * @property string hotPepper 🌶
- * @property string cucumber 🥒
- * @property string leafyGreen 🥬
- * @property string broccoli 🥦
- * @property string garlic 🧄
- * @property string onion 🧅
- * @property string mushroom 🍄
- * @property string peanuts 🥜
- * @property string chestnut 🌰
  */
 trait FoodVegetableTrait
 {

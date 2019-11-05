@@ -5,13 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait LockTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\LockTrait
- *
- * @property string locked 🔒
- * @property string unlocked 🔓
- * @property string lockedWithPen 🔏
- * @property string lockedWithKey 🔐
- * @property string key 🔑
- * @property string oldKey 🗝
  */
 trait LockTrait
 {

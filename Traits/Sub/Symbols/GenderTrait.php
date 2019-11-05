@@ -5,9 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Symbols;
 /**
  * Trait GenderTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Symbols\GenderTrait
- *
- * @property string femaleSign ♀
- * @property string maleSign ♂
  */
 trait GenderTrait
 {

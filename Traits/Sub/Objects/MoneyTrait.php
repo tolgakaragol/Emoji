@@ -5,18 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait MoneyTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\MoneyTrait
- *
- * @property string moneyBag 💰
- * @property string yenBanknote 💴
- * @property string dollarBanknote 💵
- * @property string euroBanknote 💶
- * @property string poundBanknote 💷
- * @property string moneyWithWings 💸
- * @property string creditCard 💳
- * @property string receipt 🧾
- * @property string chartIncreasingWithYen 💹
- * @property string currencyExchange 💱
- * @property string heavyDollarSign 💲
  */
 trait MoneyTrait
 {

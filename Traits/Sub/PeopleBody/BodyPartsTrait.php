@@ -5,22 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\PeopleBody;
 /**
  * Trait BodyPartsTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\PeopleBody\BodyPartsTrait
- *
- * @property string flexedBiceps 💪
- * @property string mechanicalArm 🦾
- * @property string mechanicalLeg 🦿
- * @property string leg 🦵
- * @property string foot 🦶
- * @property string ear 👂
- * @property string earWithHearingAid 🦻
- * @property string nose 👃
- * @property string brain 🧠
- * @property string tooth 🦷
- * @property string bone 🦴
- * @property string eyes 👀
- * @property string eye 👁
- * @property string tongue 👅
- * @property string mouth 👄
  */
 trait BodyPartsTrait
 {

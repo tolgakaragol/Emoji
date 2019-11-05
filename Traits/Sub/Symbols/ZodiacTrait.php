@@ -5,20 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Symbols;
 /**
  * Trait ZodiacTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Symbols\ZodiacTrait
- *
- * @property string aries ♈
- * @property string taurus ♉
- * @property string gemini ♊
- * @property string cancer ♋
- * @property string leo ♌
- * @property string virgo ♍
- * @property string libra ♎
- * @property string scorpio ♏
- * @property string sagittarius ♐
- * @property string capricorn ♑
- * @property string aquarius ♒
- * @property string pisces ♓
- * @property string ophiuchus ⛎
  */
 trait ZodiacTrait
 {

@@ -5,12 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\PeopleBody;
 /**
  * Trait HandFingersOpenTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\PeopleBody\HandFingersOpenTrait
- *
- * @property string wavingHand 👋
- * @property string raisedBackOfHand 🤚
- * @property string handWithFingersSplayed 🖐
- * @property string raisedHand ✋
- * @property string vulcanSalute 🖖
  */
 trait HandFingersOpenTrait
 {

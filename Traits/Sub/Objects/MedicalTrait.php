@@ -5,12 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait MedicalTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\MedicalTrait
- *
- * @property string syringe 💉
- * @property string dropOfBlood 🩸
- * @property string pill 💊
- * @property string adhesiveBandage 🩹
- * @property string stethoscope 🩺
  */
 trait MedicalTrait
 {

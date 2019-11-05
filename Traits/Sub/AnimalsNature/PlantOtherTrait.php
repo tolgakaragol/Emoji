@@ -5,19 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\AnimalsNature;
 /**
  * Trait PlantOtherTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\AnimalsNature\PlantOtherTrait
- *
- * @property string seedling 🌱
- * @property string evergreenTree 🌲
- * @property string deciduousTree 🌳
- * @property string palmTree 🌴
- * @property string cactus 🌵
- * @property string sheafOfRice 🌾
- * @property string herb 🌿
- * @property string shamrock ☘
- * @property string fourLeafClover 🍀
- * @property string mapleLeaf 🍁
- * @property string fallenLeaf 🍂
- * @property string leafFlutteringInWind 🍃
  */
 trait PlantOtherTrait
 {

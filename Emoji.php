@@ -38,7 +38,7 @@ use TolgaKaragol\Emoji\Traits\TravelPlacesTrait;
  * @method static Symbols symbol()
  * @method static TravelPlaces travelPlace()
  */
-class Emoji
+class Emoji extends AllEmoji
 {
     use ActivitiesTrait, AnimalsNatureTrait, ComponentTrait, FlagsTrait, FoodDrinkTrait, ObjectsTrait,
         PeopleBodyTrait, SmileysEmotionTrait, SymbolsTrait, TravelPlacesTrait;
@@ -59,25 +59,24 @@ class Emoji
         return self::$instance;
     }
 
+    /**
+     * @param $name
+     * @param $arguments
+     * @return Emoji
+     */
     public static function __callStatic($name, $arguments)
     {
         return self::$instance;
     }
 
+    /**
+     * @param $name
+     * @return string
+     */
     public function __get($name)
     {
         return self::htmlEntityDecode(self::${$name});
     }
-
-    /**
-     * @param $code
-     * @return string
-     */
-    private static function htmlEntityDecode($code): string
-    {
-        return html_entity_decode($code, ENT_NOQUOTES, 'UTF-8');
-    }
-
 
     /**
      * @param $name
@@ -95,6 +94,15 @@ class Emoji
     public function __isset($name)
     {
         return isset(self::${$name});
+    }
+
+    /**
+     * @param $code
+     * @return string
+     */
+    private static function htmlEntityDecode($code): string
+    {
+        return html_entity_decode($code, ENT_NOQUOTES, 'UTF-8');
     }
 
     /**

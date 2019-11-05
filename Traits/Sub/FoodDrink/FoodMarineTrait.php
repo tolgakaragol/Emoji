@@ -5,12 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\FoodDrink;
 /**
  * Trait FoodMarineTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\FoodDrink\FoodMarineTrait
- *
- * @property string crab 🦀
- * @property string lobster 🦞
- * @property string shrimp 🦐
- * @property string squid 🦑
- * @property string oyster 🦪
  */
 trait FoodMarineTrait
 {

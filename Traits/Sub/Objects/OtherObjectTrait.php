@@ -5,11 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait OtherObjectTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\OtherObjectTrait
- *
- * @property string cigarette 🚬
- * @property string coffin ⚰
- * @property string funeralUrn ⚱
- * @property string moai 🗿
  */
 trait OtherObjectTrait
 {

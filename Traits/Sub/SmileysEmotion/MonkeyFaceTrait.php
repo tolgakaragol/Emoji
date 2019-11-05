@@ -5,10 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait MonkeyFaceTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\MonkeyFaceTrait
- *
- * @property string seeNoEvilMonkey 🙈
- * @property string hearNoEvilMonkey 🙉
- * @property string speakNoEvilMonkey 🙊
  */
 trait MonkeyFaceTrait
 {

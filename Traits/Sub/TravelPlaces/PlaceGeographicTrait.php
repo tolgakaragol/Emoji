@@ -5,16 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\TravelPlaces;
 /**
  * Trait PlaceGeographicTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\TravelPlaces\PlaceGeographicTrait
- *
- * @property string snowCappedMountain 🏔
- * @property string mountain ⛰
- * @property string volcano 🌋
- * @property string mountFuji 🗻
- * @property string camping 🏕
- * @property string beachWithUmbrella 🏖
- * @property string desert 🏜
- * @property string desertIsland 🏝
- * @property string nationalPark 🏞
  */
 trait PlaceGeographicTrait
 {

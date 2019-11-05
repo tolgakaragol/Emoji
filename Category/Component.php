@@ -10,6 +10,11 @@ use TolgaKaragol\Emoji\Traits\ComponentTrait;
  * @package TolgaKaragol\Emoji\Category\Component
  *
  * @method static HairStyle hairStyle()
+ *
+ * @property string redHair 🦰
+ * @property string curlyHair 🦱
+ * @property string whiteHair 🦳
+ * @property string bald 🦲
  */
 class Component
 {

@@ -5,13 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\PeopleBody;
 /**
  * Trait HandFingersClosedTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\PeopleBody\HandFingersClosedTrait
- *
- * @property string thumbsUp 👍
- * @property string thumbsDown 👎
- * @property string raisedFist ✊
- * @property string oncomingFist 👊
- * @property string leftFacingFist 🤛
- * @property string rightFacingFist 🤜
  */
 trait HandFingersClosedTrait
 {

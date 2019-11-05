@@ -5,15 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait FaceNegativeTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\FaceNegativeTrait
- *
- * @property string faceWithSteamFromNose 😤
- * @property string poutingFace 😡
- * @property string angryFace 😠
- * @property string faceWithSymbolsOnMouth 🤬
- * @property string smilingFaceWithHorns 😈
- * @property string angryFaceWithHorns 👿
- * @property string skull 💀
- * @property string skullAndCrossbones ☠
  */
 trait FaceNegativeTrait
 {

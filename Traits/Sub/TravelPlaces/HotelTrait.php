@@ -5,9 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\TravelPlaces;
 /**
  * Trait HotelTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\TravelPlaces\HotelTrait
- *
- * @property string bellhopBell 🛎
- * @property string luggage 🧳
  */
 trait HotelTrait
 {

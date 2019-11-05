@@ -5,13 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\FoodDrink;
 /**
  * Trait DishwareTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\FoodDrink\DishwareTrait
- *
- * @property string chopsticks 🥢
- * @property string forkAndKnifeWithPlate 🍽
- * @property string forkAndKnife 🍴
- * @property string spoon 🥄
- * @property string kitchenKnife 🔪
- * @property string amphora 🏺
  */
 trait DishwareTrait
 {

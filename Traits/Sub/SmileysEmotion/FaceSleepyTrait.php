@@ -5,12 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait FaceSleepyTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\FaceSleepyTrait
- *
- * @property string relievedFace 😌
- * @property string pensiveFace 😔
- * @property string sleepyFace 😪
- * @property string droolingFace 🤤
- * @property string sleepingFace 😴
  */
 trait FaceSleepyTrait
 {

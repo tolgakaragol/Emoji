@@ -5,10 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait FaceGlassesTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\FaceGlassesTrait
- *
- * @property string smilingFaceWithSunglasses 😎
- * @property string nerdFace 🤓
- * @property string faceWithMonocle 🧐
  */
 trait FaceGlassesTrait
 {

@@ -5,14 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\PeopleBody;
 /**
  * Trait HandFingersPartialTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\PeopleBody\HandFingersPartialTrait
- *
- * @property string oKHand 👌
- * @property string pinchingHand 🤏
- * @property string victoryHand ✌
- * @property string crossedFingers 🤞
- * @property string loveYouGesture 🤟
- * @property string signOfTheHorns 🤘
- * @property string callMeHand 🤙
  */
 trait HandFingersPartialTrait
 {

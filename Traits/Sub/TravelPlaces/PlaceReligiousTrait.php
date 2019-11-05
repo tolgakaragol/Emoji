@@ -5,13 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\TravelPlaces;
 /**
  * Trait PlaceReligiousTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\TravelPlaces\PlaceReligiousTrait
- *
- * @property string church ⛪
- * @property string mosque 🕌
- * @property string hinduTemple 🛕
- * @property string synagogue 🕍
- * @property string shintoShrine ⛩
- * @property string kaaba 🕋
  */
 trait PlaceReligiousTrait
 {

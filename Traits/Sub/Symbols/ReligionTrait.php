@@ -5,19 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Symbols;
 /**
  * Trait ReligionTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Symbols\ReligionTrait
- *
- * @property string placeOfWorship 🛐
- * @property string atomSymbol ⚛
- * @property string om 🕉
- * @property string starOfDavid ✡
- * @property string wheelOfDharma ☸
- * @property string yinYang ☯
- * @property string latinCross ✝
- * @property string orthodoxCross ☦
- * @property string starAndCrescent ☪
- * @property string peaceSymbol ☮
- * @property string menorah 🕎
- * @property string dottedSixPointedStar 🔯
  */
 trait ReligionTrait
 {

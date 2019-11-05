@@ -5,17 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\AnimalsNature;
 /**
  * Trait PlantFlowerTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\AnimalsNature\PlantFlowerTrait
- *
- * @property string bouquet 💐
- * @property string cherryBlossom 🌸
- * @property string whiteFlower 💮
- * @property string rosette 🏵
- * @property string rose 🌹
- * @property string wiltedFlower 🥀
- * @property string hibiscus 🌺
- * @property string sunflower 🌻
- * @property string blossom 🌼
- * @property string tulip 🌷
  */
 trait PlantFlowerTrait
 {

@@ -5,11 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait FaceHandTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\FaceHandTrait
- *
- * @property string huggingFace 🤗
- * @property string faceWithHandOverMouth 🤭
- * @property string shushingFace 🤫
- * @property string thinkingFace 🤔
  */
 trait FaceHandTrait
 {

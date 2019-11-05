@@ -5,16 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait CatFaceTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\CatFaceTrait
- *
- * @property string grinningCat 😺
- * @property string grinningCatWithSmilingEyes 😸
- * @property string catWithTearsOfJoy 😹
- * @property string smilingCatWithHeartEyes 😻
- * @property string catWithWrySmile 😼
- * @property string kissingCat 😽
- * @property string wearyCat 🙀
- * @property string cryingCat 😿
- * @property string poutingCat 😾
  */
 trait CatFaceTrait
 {

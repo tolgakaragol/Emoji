@@ -11,7 +11,6 @@ use TolgaKaragol\Emoji\Traits\Sub\Activities\ArtsCraftsTrait;
 /**
  * Trait ActivitiesTrait
  * @package TolgaKaragol\Emoji\Traits\ActivitiesTrait
- * @property string test
  */
 trait ActivitiesTrait
 {

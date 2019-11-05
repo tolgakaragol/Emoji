@@ -5,20 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait ComputerTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\ComputerTrait
- *
- * @property string battery 🔋
- * @property string electricPlug 🔌
- * @property string laptop 💻
- * @property string desktopComputer 🖥
- * @property string printer 🖨
- * @property string keyboard ⌨
- * @property string computerMouse 🖱
- * @property string trackball 🖲
- * @property string computerDisk 💽
- * @property string floppyDisk 💾
- * @property string opticalDisk 💿
- * @property string dvd 📀
- * @property string abacus 🧮
  */
 trait ComputerTrait
 {

@@ -5,20 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Symbols;
 /**
  * Trait WarningTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Symbols\WarningTrait
- *
- * @property string warning ⚠
- * @property string childrenCrossing 🚸
- * @property string noEntry ⛔
- * @property string prohibited 🚫
- * @property string noBicycles 🚳
- * @property string noSmoking 🚭
- * @property string noLittering 🚯
- * @property string nonPotableWater 🚱
- * @property string noPedestrians 🚷
- * @property string noMobilePhones 📵
- * @property string noOneUnderEighteen 🔞
- * @property string radioactive ☢
- * @property string biohazard ☣
  */
 trait WarningTrait
 {

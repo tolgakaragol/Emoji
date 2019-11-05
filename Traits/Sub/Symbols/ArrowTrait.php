@@ -5,28 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Symbols;
 /**
  * Trait ArrowTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Symbols\ArrowTrait
- *
- * @property string upArrow ⬆
- * @property string upRightArrow ↗
- * @property string rightArrow ➡
- * @property string downRightArrow ↘
- * @property string downArrow ⬇
- * @property string downLeftArrow ↙
- * @property string leftArrow ⬅
- * @property string upLeftArrow ↖
- * @property string upDownArrow ↕
- * @property string leftRightArrow ↔
- * @property string rightArrowCurvingLeft ↩
- * @property string leftArrowCurvingRight ↪
- * @property string rightArrowCurvingUp ⤴
- * @property string rightArrowCurvingDown ⤵
- * @property string clockwiseVerticalArrows 🔃
- * @property string counterclockwiseArrowsButton 🔄
- * @property string bACKArrow 🔙
- * @property string eNDArrow 🔚
- * @property string oNArrow 🔛
- * @property string sOONArrow 🔜
- * @property string tOPArrow 🔝
  */
 trait ArrowTrait
 {

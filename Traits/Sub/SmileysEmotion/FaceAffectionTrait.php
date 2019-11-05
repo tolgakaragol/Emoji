@@ -5,15 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait FaceAffectionTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\FaceAffectionTrait
- *
- * @property string smilingFaceWithHearts 🥰
- * @property string smilingFaceWithHeartEyes 😍
- * @property string starStruck 🤩
- * @property string faceBlowingAKiss 😘
- * @property string kissingFace 😗
- * @property string smilingFace ☺
- * @property string kissingFaceWithClosedEyes 😚
- * @property string kissingFaceWithSmilingEyes 😙
  */
 trait FaceAffectionTrait
 {

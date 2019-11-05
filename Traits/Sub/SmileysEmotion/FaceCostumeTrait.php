@@ -5,15 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait FaceCostumeTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\FaceCostumeTrait
- *
- * @property string pileOfPoo 💩
- * @property string clownFace 🤡
- * @property string ogre 👹
- * @property string goblin 👺
- * @property string ghost 👻
- * @property string alien 👽
- * @property string alienMonster 👾
- * @property string robot 🤖
  */
 trait FaceCostumeTrait
 {

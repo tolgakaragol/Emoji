@@ -5,16 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait SoundTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\SoundTrait
- *
- * @property string mutedSpeaker 🔇
- * @property string speakerLowVolume 🔈
- * @property string speakerMediumVolume 🔉
- * @property string speakerHighVolume 🔊
- * @property string loudspeaker 📢
- * @property string megaphone 📣
- * @property string postalHorn 📯
- * @property string bell 🔔
- * @property string bellWithSlash 🔕
  */
 trait SoundTrait
 {

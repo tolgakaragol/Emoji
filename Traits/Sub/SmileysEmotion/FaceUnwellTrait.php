@@ -5,18 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait FaceUnwellTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\FaceUnwellTrait
- *
- * @property string faceWithMedicalMask 😷
- * @property string faceWithThermometer 🤒
- * @property string faceWithHeadBandage 🤕
- * @property string nauseatedFace 🤢
- * @property string faceVomiting 🤮
- * @property string sneezingFace 🤧
- * @property string hotFace 🥵
- * @property string coldFace 🥶
- * @property string woozyFace 🥴
- * @property string dizzyFace 😵
- * @property string explodingHead 🤯
  */
 trait FaceUnwellTrait
 {

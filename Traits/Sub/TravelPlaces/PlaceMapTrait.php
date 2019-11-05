@@ -5,14 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\TravelPlaces;
 /**
  * Trait PlaceMapTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\TravelPlaces\PlaceMapTrait
- *
- * @property string globeShowingEuropeAfrica 🌍
- * @property string globeShowingAmericas 🌎
- * @property string globeShowingAsiaAustralia 🌏
- * @property string globeWithMeridians 🌐
- * @property string worldMap 🗺
- * @property string mapOfJapan 🗾
- * @property string compass 🧭
  */
 trait PlaceMapTrait
 {

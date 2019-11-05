@@ -5,17 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait FaceNeutralSkepticalTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\FaceNeutralSkepticalTrait
- *
- * @property string zipperMouthFace 🤐
- * @property string faceWithRaisedEyebrow 🤨
- * @property string neutralFace 😐
- * @property string expressionlessFace 😑
- * @property string faceWithoutMouth 😶
- * @property string smirkingFace 😏
- * @property string unamusedFace 😒
- * @property string faceWithRollingEyes 🙄
- * @property string grimacingFace 😬
- * @property string lyingFace 🤥
  */
 trait FaceNeutralSkepticalTrait
 {

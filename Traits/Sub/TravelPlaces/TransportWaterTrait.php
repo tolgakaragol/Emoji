@@ -5,15 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\TravelPlaces;
 /**
  * Trait TransportWaterTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\TravelPlaces\TransportWaterTrait
- *
- * @property string anchor ⚓
- * @property string sailboat ⛵
- * @property string canoe 🛶
- * @property string speedboat 🚤
- * @property string passengerShip 🛳
- * @property string ferry ⛴
- * @property string motorBoat 🛥
- * @property string ship 🚢
  */
 trait TransportWaterTrait
 {

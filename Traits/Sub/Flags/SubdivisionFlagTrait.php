@@ -5,10 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Flags;
 /**
  * Trait SubdivisionFlagTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Flags\SubdivisionFlagTrait
- *
- * @property string flagEngland &amp;#x1f3f4&amp;#xe0067&amp;#xe0062&amp;#xe0065&amp;#xe006e&amp;#xe0067󠁿
- * @property string flagScotland &amp;#x1f3f4&amp;#xe0067&amp;#xe0062&amp;#xe0073&amp;#xe0063&amp;#xe0074󠁿
- * @property string flagWales &amp;#x1f3f4&amp;#xe0067&amp;#xe0062&amp;#xe0077&amp;#xe006c&amp;#xe0073󠁿
  */
 trait SubdivisionFlagTrait
 {

@@ -5,15 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\AnimalsNature;
 /**
  * Trait AnimalReptileTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\AnimalsNature\AnimalReptileTrait
- *
- * @property string crocodile 🐊
- * @property string turtle 🐢
- * @property string lizard 🦎
- * @property string snake 🐍
- * @property string dragonFace 🐲
- * @property string dragon 🐉
- * @property string sauropod 🦕
- * @property string tRex 🦖
  */
 trait AnimalReptileTrait
 {

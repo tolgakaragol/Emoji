@@ -5,20 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Symbols;
 /**
  * Trait TransportSignTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Symbols\TransportSignTrait
- *
- * @property string aTMSign 🏧
- * @property string litterInBinSign 🚮
- * @property string potableWater 🚰
- * @property string wheelchairSymbol ♿
- * @property string menSRoom 🚹
- * @property string womenSRoom 🚺
- * @property string restroom 🚻
- * @property string babySymbol 🚼
- * @property string waterCloset 🚾
- * @property string passportControl 🛂
- * @property string customs 🛃
- * @property string baggageClaim 🛄
- * @property string leftLuggage 🛅
  */
 trait TransportSignTrait
 {

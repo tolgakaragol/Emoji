@@ -5,13 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Activities;
 /**
  * Trait AwardMedalTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Activities\AwardMedalTrait
- *
- * @property string militaryMedal 🎖
- * @property string trophy 🏆
- * @property string sportsMedal 🏅
- * @property string 1stPlaceMedal 🥇
- * @property string 2ndPlaceMedal 🥈
- * @property string 3rdPlaceMedal 🥉
  */
 trait AwardMedalTrait
 {

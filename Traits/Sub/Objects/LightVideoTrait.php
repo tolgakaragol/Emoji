@@ -5,23 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait LightVideoTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\LightVideoTrait
- *
- * @property string movieCamera 🎥
- * @property string filmFrames 🎞
- * @property string filmProjector 📽
- * @property string clapperBoard 🎬
- * @property string television 📺
- * @property string camera 📷
- * @property string cameraWithFlash 📸
- * @property string videoCamera 📹
- * @property string videocassette 📼
- * @property string magnifyingGlassTiltedLeft 🔍
- * @property string magnifyingGlassTiltedRight 🔎
- * @property string candle 🕯
- * @property string lightBulb 💡
- * @property string flashlight 🔦
- * @property string redPaperLantern 🏮
- * @property string diyaLamp 🪔
  */
 trait LightVideoTrait
 {

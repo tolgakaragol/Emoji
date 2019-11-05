@@ -5,11 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Component;
 /**
  * Trait HairStyleTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Component\HairStyleTrait
- *
- * @property string redHair 🦰
- * @property string curlyHair 🦱
- * @property string whiteHair 🦳
- * @property string bald 🦲
  */
 trait HairStyleTrait
 {

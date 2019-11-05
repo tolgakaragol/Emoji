@@ -5,13 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait PhoneTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\PhoneTrait
- *
- * @property string mobilePhone 📱
- * @property string mobilePhoneWithArrow 📲
- * @property string telephone ☎
- * @property string telephoneReceiver 📞
- * @property string pager 📟
- * @property string faxMachine 📠
  */
 trait PhoneTrait
 {

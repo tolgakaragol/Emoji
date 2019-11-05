@@ -5,13 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion;
 /**
  * Trait FaceTongueTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\SmileysEmotion\FaceTongueTrait
- *
- * @property string faceSavoringFood 😋
- * @property string faceWithTongue 😛
- * @property string winkingFaceWithTongue 😜
- * @property string zanyFace 🤪
- * @property string squintingFaceWithTongue 😝
- * @property string moneyMouthFace 🤑
  */
 trait FaceTongueTrait
 {

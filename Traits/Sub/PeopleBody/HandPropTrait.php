@@ -5,10 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\PeopleBody;
 /**
  * Trait HandPropTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\PeopleBody\HandPropTrait
- *
- * @property string writingHand ✍
- * @property string nailPolish 💅
- * @property string selfie 🤳
  */
 trait HandPropTrait
 {

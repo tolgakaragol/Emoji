@@ -5,12 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Activities;
 /**
  * Trait ArtsCraftsTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Activities\ArtsCraftsTrait
- *
- * @property string performingArts 🎭
- * @property string framedPicture 🖼
- * @property string artistPalette 🎨
- * @property string thread 🧵
- * @property string yarn 🧶
  */
 trait ArtsCraftsTrait
 {

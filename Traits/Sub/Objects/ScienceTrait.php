@@ -5,14 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait ScienceTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\ScienceTrait
- *
- * @property string alembic ⚗
- * @property string testTube 🧪
- * @property string petriDish 🧫
- * @property string dna 🧬
- * @property string microscope 🔬
- * @property string telescope 🔭
- * @property string satelliteAntenna 📡
  */
 trait ScienceTrait
 {

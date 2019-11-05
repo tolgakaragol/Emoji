@@ -5,13 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\PeopleBody;
 /**
  * Trait HandSingleFingerTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\PeopleBody\HandSingleFingerTrait
- *
- * @property string backhandIndexPointingLeft 👈
- * @property string backhandIndexPointingRight 👉
- * @property string backhandIndexPointingUp 👆
- * @property string middleFinger 🖕
- * @property string backhandIndexPointingDown 👇
- * @property string indexPointingUp ☝
  */
 trait HandSingleFingerTrait
 {

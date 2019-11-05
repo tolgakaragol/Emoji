@@ -5,16 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\Objects;
 /**
  * Trait MusicTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\Objects\MusicTrait
- *
- * @property string musicalScore 🎼
- * @property string musicalNote 🎵
- * @property string musicalNotes 🎶
- * @property string studioMicrophone 🎙
- * @property string levelSlider 🎚
- * @property string controlKnobs 🎛
- * @property string microphone 🎤
- * @property string headphone 🎧
- * @property string radio 📻
  */
 trait MusicTrait
 {

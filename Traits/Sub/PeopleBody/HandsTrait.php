@@ -5,13 +5,6 @@ namespace TolgaKaragol\Emoji\Traits\Sub\PeopleBody;
 /**
  * Trait HandsTrait
  * @package TolgaKaragol\Emoji\Traits\Sub\PeopleBody\HandsTrait
- *
- * @property string clappingHands 👏
- * @property string raisingHands 🙌
- * @property string openHands 👐
- * @property string palmsUpTogether 🤲
- * @property string handshake 🤝
- * @property string foldedHands 🙏
  */
 trait HandsTrait
 {
