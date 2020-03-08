@@ -1,13 +1,7 @@
 # Emoji
-Easy Emoji Usage on Php  
-#
+Easy Emoji Library  
 
-── ▄▀▀▀▀▀─ ─ ▄█▀▀▀█▄  
-──▐▄▄▄▄▄▄▄▄██▌▀▄▀▐██  
-──▐▒▒▒▒▒▒▒▒███▌▀▐███  
-───▌▒▓▒▒▒▒▓▒██▌▀▐██  
-───▌▓▐▀▀▀▀▌▓─▀▀▀▀▀  
-
+![](example.gif)
 
 ### Usage
     $emoji = Emoji::getInstance();
@@ -17,3 +11,9 @@ Easy Emoji Usage on Php
     $emoji::category()->emojiName;
     $emoji::category::subCategory(emojiName);
     $emoji::category::subCategory()->emojiName;
+
+
+### Todo
+- Twig integration
+- symfony bundle
+- Custom emoji management 
